@@ -1,4 +1,6 @@
-# Code Refactor Starter Code
+## HORISEON-CODE-REFACTOR
+
+This project consists of refactoring the Horiseon website homepage to make the previous code more efficient, comprehensible and accessible
 
 ## User Story
 
@@ -25,7 +27,7 @@ THEN I find a concise, descriptive title
 ```
 
 ## Changes made
-
+ 
 - added a more descriptive title
 - added semantic tags (header, nav, section, article, aside, footer)
 - changed h3 tags to h2 tags in aside to fix hierarchy and restyled to make the font smaller
